@@ -1,5 +1,5 @@
 # p5.js
 ## Sadrzaj
 
-### Prvi projekat
-[projekat 1](Proba)
+### Coding Challenge
+[Challenge #1: Starfield in Processing](ch001)
