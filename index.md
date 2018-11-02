@@ -4,4 +4,5 @@
 ### Coding Challenge
 [Challenge #1: Starfield in Processing](ch001 "Starfield")  
 [Challenge #2: Menger Sponge Fracta](ch002 "Menger Sponge Fracta")  
-[Challenge #2: Snake game](ch003 "Snake Game")  
+[Challenge #3: Snake game](ch003 "Snake Game") 
+ 
