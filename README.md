@@ -1,1 +1,1 @@
-# Sajt koji cu napraviti kad budem imao vremena
+# Sajt koji cu napraviti kada budem imao vise vremena
